@@ -314,9 +314,7 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
 
-Moumita Halder
 
 ## 🙏 Acknowledgments
 
